@@ -1,6 +1,6 @@
 # MiniUI-ScummVM-Pak
 
-ScummVM pak for MiniUI using the ScummVM libretro core by [StupidHoroscope](https://github.com/StupidHoroscope)
+ScummVM pak for MiniUI using the ScummVM libretro core by [StupidHoroscope](https://github.com/StupidHoroscope), including the aux/additional data files.
 
 # Installation
 
