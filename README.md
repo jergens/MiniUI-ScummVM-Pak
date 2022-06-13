@@ -6,11 +6,17 @@ ScummVM pak for MiniUI using the ScummVM libretro core by [StupidHoroscope](http
 
 Download the release zip and extract to the root of your SD card.
 
+# Updating
+
+To update the libretro core, replace the `scummvm_libretro.so` file in `Emus/SCUMMVM.pak` with the new version.
+
+To update the aux/additional data pack, replace the extra and themes folders in `Bios/SCUMMVM` with the contents from the new version.
+
 # Usage
 
 Usage is the same as with any of the other MiniUI emulators.
 
-Save states are __not__ supported.  Press the Start button to bring up the ScummVM menu and save and load there.
+Save states are __NOT__ supported.  Press the Start button to bring up the ScummVM menu and save and load there.
 
 ## Audio Noise
 
