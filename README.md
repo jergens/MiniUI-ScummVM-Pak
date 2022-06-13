@@ -22,7 +22,7 @@ To manually update the aux/additional data pack, replace the extra and themes fo
 
 Usage is the same as with any of the other MiniUI emulators.
 
-Copy games into their own folders under the Roms/ScummVM (SCUMMVM) folder.
+Copy games into their own folders under the `Roms/ScummVM (SCUMMVM)` folder.
 
 Save states are __NOT__ supported.  Press the Start button to bring up the ScummVM menu and save and load there.
 
