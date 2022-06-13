@@ -12,9 +12,11 @@ Download the release zip and extract to the root of your SD card.
 
 # Updating
 
-To update the libretro core, replace the `scummvm_libretro.so` file in `Emus/SCUMMVM.pak` with the new version.
+Download the release zip and extract to the root of your SD card, overwriting any existing files and folders.
 
-To update the aux/additional data pack, replace the extra and themes folders in `Bios/SCUMMVM` with the contents from the new version.
+To manually update the libretro core, replace the `scummvm_libretro.so` file in `Emus/SCUMMVM.pak` with the new version.
+
+To manually update the aux/additional data pack, replace the extra and themes folders in `Bios/SCUMMVM` with the contents from the new version.
 
 # Usage
 
